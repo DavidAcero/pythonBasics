@@ -1,0 +1,6 @@
+tuple1 = ("Amsterdam", "Berlin", "Chicago", "Dublin")
+x = tuple1.count('Amsterdam')
+y = tuple1.index('Chicago')
+print(x)
+print(len(tuple1))
+print(y)
