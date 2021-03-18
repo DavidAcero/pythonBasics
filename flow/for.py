@@ -32,3 +32,8 @@ for x in range(6):
   print(x)
 else:
   print("Finally finished!")
+
+print("=" * 30)
+
+for x in [0, 1, 2]:
+  pass
