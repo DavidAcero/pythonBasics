@@ -20,3 +20,9 @@ Tuples are used to store multiple items in a single variable.
 A tuple is a collection which is ordered, unchangeable and allow duplicate values.
 Tuples are written with round brackets.
 Tuple items are indexed.
+
+===== SET ======
+Sets are used to store multiple items in a single variable.
+A set is a collection which is both unordered, unchangeable and unindexed.
+Sets are written with curly brackets.
+Sets cannot have two items with the same value.

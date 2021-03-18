@@ -16,3 +16,5 @@ workaround = list(countries)
 workaround.remove("Spain")
 countries = tuple(workaround)
 print("After Format:  {}".format(countries))
+
+del countries

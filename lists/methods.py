@@ -13,3 +13,8 @@ anotherList = ["France", "Germany", "Italy", "Japan", "China"]
 print(anotherList)
 anotherList.reverse()
 print(anotherList)
+
+anotherList.clear()
+print(anotherList)
+
+del anotherList
